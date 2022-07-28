@@ -13,16 +13,16 @@
 <br />
 
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=lioness100&show_icons=true&count_private=true"
-    alt="Github Stats"
-  /><img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioness100&layout=compact&card_width=445"
-    alt="Most Used Languages"
-  /><img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=Lioness100&layout=compact&custom_title=Code Time This Week"
-    alt="Wakatime Stats"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats"
+    ><img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api?username=Lioness100&count_private=true&show_icons=true&hide_border=true&hide_title=true"
+      alt="Github Stats"
+  /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"
+    ><img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lioness100&layout=compact&hide_border=true"
+      alt="Most Used Languages"
+  /></a>
 </div>
-
-> Provided by [`GitHub Readme Stats`](https://github.com/anuraghazra/github-readme-stats)
