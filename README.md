@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lioness100</h1>
 
-- 📝 Student
-- 💻 Self taught developer
+- 📝 Student @ UMass Amherst
 - [💼 Freelancer](https://www.fiverr.com/lioness_100)
 - 🐰 Bunny lover (mine -> <img align="center"
   src="https://cdn.discordapp.com/emojis/748485508912644106.gif" alt="My bunny"
