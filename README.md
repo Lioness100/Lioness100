@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lioness100</h1>
+<h1 align="center">Hi 👋</h1>
 
 - 📝 Student @ UMass Amherst
 - 🐰 Bunny lover (mine -> <img align="center"
