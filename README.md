@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋</h1>
-
 - 📝 Student @ UMass Amherst
 - 🐰 Bunny lover (mine -> <img align="center"
   src="https://cdn.discordapp.com/emojis/748485508912644106.gif" alt="My bunny"
